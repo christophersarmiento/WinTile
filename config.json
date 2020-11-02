@@ -1,0 +1,16 @@
+{
+  "gap": 12,
+  "edge_gap": 6,
+
+  "bindings": {
+    "VK_MENU+U": "TopLeft",
+    "VK_MENU+I": "Top",
+    "VK_MENU+O": "TopRight",
+    "VK_MENU+J": "Left",
+    "VK_MENU+K": "Middle",
+    "VK_MENU+L": "Right",
+    "VK_MENU+M": "BottomLeft",
+    "VK_MENU+VK_OEM_COMMA": "Bottom",
+    "VK_MENU+VK_OEM_PERIOD": "BottomRight"
+  }
+}
